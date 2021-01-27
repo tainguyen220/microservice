@@ -9,6 +9,9 @@ Through this reading, I learn a lot more microservice. A good example is the sum
 I am starting to think that Microservice does not only focus on only one problem, but they focus on all of the problem
 revolving around a feature.
 
+Another couples of interesting facts that I read from this article is Microservices owns it data and have private API. Since it's turning problem
+around quickly it's independent deployable. 
+
 What is the difference between Microservices, Miniservice, and Macroservice?
 
 Microservices – Enable Continuous Delivery
