@@ -17,7 +17,7 @@ manager will decide which feature to release first on an application. After that
 first release, other features could come along to improve the application. There 
 could be a strategy where an application will release each feature slowly to keep the audience’s attention on the product. 
 
-There however are problems with fast development and deployment. If a feature is quickly being developed and deploy, there is going to be feature that are not stable and bug. This could be a problem because certain application depends heavily on one feature. If many features are being release continously, then there could also be a list of problems coming back for the developer to fix. 
+I think that microservice is good but it might not be the best option for everyone. There's a benefit but however are problems as well with fast development and deployment. If a feature is quickly being developed and deploy, there is going to be feature that are not stable and bug. This could be a problem because certain application depends heavily on one feature. If many features are being release continously, then there could also be a list of problems coming back for the developer to fix. 
 
 
 
