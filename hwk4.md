@@ -12,5 +12,5 @@ When would you select a Physical Machine over a Virtual Machine?
 	A virtual machine is more cost-effective compared to a virtual machine. You can run as many virtual machines as you want on a physical machine but that would require the physical machine to have higher end computer parts. 
 
 Why is a Virtual Machine good with microservices?
-	Using Virtual Machine with Microservices help reduce the cost because a VM can executive multipole microservices which help with lcensing costs. It also provide higher effiency because a single operating system can support multiple containers, and each container run on it own isolated enviroment. Each microservice could have it own storpage if it's running on VM and they can be manage diffenrelty from the storage of other service.
+	Using Virtual Machine with Microservices help reduce the cost because a VM can executive multiple microservices which help with lcensing costs. It also provide higher effiency because a single operating system can support multiple containers, and each container run on it own isolated enviroment. Each microservice could have it own storpage if it's running on VM and they can be manage diffenrelty from the storage of other service.
 	
