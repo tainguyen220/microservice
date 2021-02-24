@@ -1,0 +1,1 @@
+For the Microservice Case Study selection. I wanted to work on option #22. This option talks about Grubhub rolled out comples changes at scale with Microservices. I wanted to research on how complex Grubhub system is, and knowing that they're one of the popular apps being used right now in the market. It would be cool to see how they update their information and etc. 
